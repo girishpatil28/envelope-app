@@ -1,0 +1,36 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  padding: 20px;
+  background-image:url(Untitled-1-2.jpg);
+}
+h2 {
+  color: #2c3e50;
+  text-align: center;
+}
+p{
+    text-align: center;
+}
+.navigation{
+    text-align: center;
+}
+table {
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+}
+td, th {
+  padding: 10px;
+  text-align: center;
+}
+a {
+  margin: 10px;
+  text-align: center;
+}
+h3{
+    text-align: center;
+}
